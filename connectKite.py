@@ -103,16 +103,16 @@ def core():
 
 
 # Your API Key and API Secret
-api_key = '30wyfm3oykkug4de'
-api_secret = 'efd25m5zsjvaql766r3xqiwl50r0bsvn'
+api_key = '<api-key>'
+api_secret = '<api-secret>'
 
 
 kite = KiteConnect(api_key=api_key)
 
-request_token = 'gj49eXrAXJtl9jc7ujT74zLGfBk84CYz'
+request_token = '<request-token>'
 
 
-kite.set_access_token("HrqxIwMIq1PqBNF38ERKteZ3arSENosz")
+kite.set_access_token("<access-token>")
 
 times = []
 
